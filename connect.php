@@ -4,3 +4,4 @@
     $db_password = "";
     $db_name = "pizzeria";
 ?>
+//laczenie z baza danych
