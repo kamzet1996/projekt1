@@ -57,3 +57,4 @@ $polaczenie->query('SET NAMES utf8');
 </body>
 
 </html>
+//strona z menu
