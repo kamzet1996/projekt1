@@ -113,3 +113,4 @@ if ($polaczenie->connect_errno != 0) {
 </body>
 <?php $polaczenie -> close(); ?>
 </html>
+//strona glowna
